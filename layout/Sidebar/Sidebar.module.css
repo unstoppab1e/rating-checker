@@ -1,0 +1,11 @@
+.rating{
+    color: var(--primary);
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.sidebar{
+    display: grid;
+    gap: 20px;
+    align-content: start;
+}
